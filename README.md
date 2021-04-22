@@ -57,7 +57,7 @@ Views: Se encuentran en resources en la carpeta de views
 
 Parte de Sass: Se encuentran en resources en la carpeta de sass
 
-Modelos: Se encuentran en la carpeta de app(Comment, Image, Like, User)
+Modelos: Se encuentran en la carpeta de app dentro de Models
 
 Controllers: Se encuentran en la carpeta de app, exactamente en la carpeta de Controllers
 
